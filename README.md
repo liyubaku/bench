@@ -1,5 +1,5 @@
-wget -qO- https://raw.githubusercontent.com/liyubaku/script/master/superbench.sh | bash     
-curl -Lso- https://raw.githubusercontent.com/liyubaku/script/master/superbench.sh | bash  
+wget -qO- https://raw.githubusercontent.com/liyubaku/bench/master/superbench.sh | bash     
+curl -Lso- https://raw.githubusercontent.com/liyubaku/bench/master/superbench.sh | bash  
 
 ZBehch
 
